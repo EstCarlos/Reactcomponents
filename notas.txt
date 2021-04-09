@@ -1,0 +1,10 @@
+Importar Routes npm 
+npm i react-router-dom
+
+luego instalar sidenav
+
+npm install --save react @trendmicro/react-sidenav
+
+
+Prettier - Code formatter
+esbenp.prettier-vscode
